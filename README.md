@@ -35,25 +35,26 @@ Contract Testing
 #### 4. Please describe yourself using JSON.
 ```
 {
-  "name": "Renato",
-  "lastname": "Hysa",
-  "age": 23,
-  "nationality": "Albanian",
-  "livesin": "Tirana",
+  "firstname": "Tunde",
+  "lastname": "Adewuyi",
+  "profession": "QA Automation Engineer",
+  "nationality": "British",
+  "livesin": "Bedfordshire",
   "passions": [
-    "Programming",
-    "Psychology",
-    "Teaching others"
+    "Self Development",
+    "Uplifting Others",
+    "Health and Fitness"
   ],
   "interests": [
-    "Education",
-    "Marketing"
+    "Sport",
+    "Documentaries"
+    "Music"
   ],
   "dreams": [
-    "To make this world a better place!"
+    "Travel around the world!"
   ],
-  "believes": [
-    "That we should all have a chance in life, we should not be judged because of our color, ethnicity and educational background!"
+  "believe": [
+    "All things work together for good "
   ]
 }
 ```
